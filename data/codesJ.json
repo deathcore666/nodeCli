@@ -1,0 +1,240 @@
+{"name":"Afghanistan","letters":"AF / AFG","code":["93"],"area":647500,"population":29121286,"gdp":"20.65","gdpPerCapita":709.1032999023463}
+{"name":"Albania","letters":"AL / ALB","code":["355"],"area":28748,"population":2986952,"gdp":"12.8","gdpPerCapita":4285.304886051064}
+{"name":"Algeria","letters":"DZ / DZA","code":["213"],"area":2381740,"population":34586184,"gdp":"215.7","gdpPerCapita":6236.59435802458}
+{"name":"American Samoa","letters":"AS / ASM","code":["1-684"],"area":199,"population":57881,"gdp":"462.2","gdpPerCapita":7985.349251049567}
+{"name":"Andorra","letters":"AD / AND","code":["376"],"area":468,"population":84000,"gdp":"4.8","gdpPerCapita":57142.857142857145}
+{"name":"Angola","letters":"AO / AGO","code":["244"],"area":1246700,"population":13068161,"gdp":"124","gdpPerCapita":9488.71076810272}
+{"name":"Anguilla","letters":"AI / AIA","code":["1-264"],"area":102,"population":13254,"gdp":"175.4","gdpPerCapita":13233.740757507168}
+{"name":"Antarctica","letters":"AQ / ATA","code":["672"],"area":14000000,"population":0,"gdp":"0","gdpPerCapita":-1}
+{"name":"Antigua and Barbuda","letters":"AG / ATG","code":["1-268"],"area":443,"population":86754,"gdp":"1.22","gdpPerCapita":14062.752149756783}
+{"name":"Argentina","letters":"AR / ARG","code":["54"],"area":2766890,"population":41343201,"gdp":"484.6","gdpPerCapita":11721.395254324889}
+{"name":"Armenia","letters":"AM / ARM","code":["374"],"area":29800,"population":2968000,"gdp":"10.44","gdpPerCapita":3517.520215633423}
+{"name":"Aruba","letters":"AW / ABW","code":["297"],"area":193,"population":71566,"gdp":"2.516","gdpPerCapita":35156.359164966605}
+{"name":"Australia","letters":"AU / AUS","code":["61"],"area":7686850,"population":21515754,"gdp":"1.488","gdpPerCapita":69158.62674391983}
+{"name":"Austria","letters":"AT / AUT","code":["43"],"area":83858,"population":8205000,"gdp":"417.9","gdpPerCapita":50932.35831809872}
+{"name":"Azerbaijan","letters":"AZ / AZE","code":["994"],"area":86600,"population":8303512,"gdp":"76.01","gdpPerCapita":9153.957987897169}
+{"name":"Bahamas","letters":"BS / BHS","code":["1-242"],"area":13940,"population":301790,"gdp":"8.373","gdpPerCapita":27744.458066867686}
+{"name":"Bahrain","letters":"BH / BHR","code":["973"],"area":665,"population":738004,"gdp":"28.36","gdpPerCapita":38427.97600013008}
+{"name":"Bangladesh","letters":"BD / BGD","code":["880"],"area":144000,"population":156118464,"gdp":"140.2","gdpPerCapita":898.0359940000435}
+{"name":"Barbados","letters":"BB / BRB","code":["1-246"],"area":431,"population":285653,"gdp":"4.262","gdpPerCapita":14920.200382982148}
+{"name":"Belarus","letters":"BY / BLR","code":["375"],"area":207600,"population":9685000,"gdp":"69.24","gdpPerCapita":7149.199793495096}
+{"name":"Belgium","letters":"BE / BEL","code":["32"],"area":30510,"population":10403000,"gdp":"507.4","gdpPerCapita":48774.392002307024}
+{"name":"Belize","letters":"BZ / BLZ","code":["501"],"area":22966,"population":314522,"gdp":"1.637","gdpPerCapita":5204.723357984497}
+{"name":"Benin","letters":"BJ / BEN","code":["229"],"area":112620,"population":9056010,"gdp":"8.359","gdpPerCapita":923.0334330461208}
+{"name":"Bermuda","letters":"BM / BMU","code":["1-441"],"area":53,"population":65365,"gdp":"5.6","gdpPerCapita":85672.76065172492}
+{"name":"Bhutan","letters":"BT / BTN","code":["975"],"area":47000,"population":699847,"gdp":"2.133","gdpPerCapita":3047.809021114615}
+{"name":"Bolivia","letters":"BO / BOL","code":["591"],"area":1098580,"population":9947418,"gdp":"30.79","gdpPerCapita":3095.2755780444736}
+{"name":"Bosnia and Herzegovina","letters":"BA / BIH","code":["387"],"area":51129,"population":4590000,"gdp":"18.87","gdpPerCapita":4111.111111111111}
+{"name":"Botswana","letters":"BW / BWA","code":["267"],"area":600370,"population":2029307,"gdp":"15.53","gdpPerCapita":7652.858833089325}
+{"name":"Brazil","letters":"BR / BRA","code":["55"],"area":8511965,"population":201103330,"gdp":"2.19","gdpPerCapita":10889.924100212562}
+{"name":"British Indian Ocean Territory","letters":"IO / IOT","code":["246"],"area":60,"population":4000,"gdp":"0","gdpPerCapita":0}
+{"name":"British Virgin Islands","letters":"VG / VGB","code":["1-284"],"area":153,"population":21730,"gdp":"1.095","gdpPerCapita":50391.16428900138}
+{"name":"Brunei","letters":"BN / BRN","code":["673"],"area":5770,"population":395027,"gdp":"16.56","gdpPerCapita":41921.1851341807}
+{"name":"Bulgaria","letters":"BG / BGR","code":["359"],"area":110910,"population":7148785,"gdp":"53.7","gdpPerCapita":7511.76598540871}
+{"name":"Burkina Faso","letters":"BF / BFA","code":["226"],"area":274200,"population":16241811,"gdp":"12.13","gdpPerCapita":746.83789880328}
+{"name":"Burundi","letters":"BI / BDI","code":["257"],"area":27830,"population":9863117,"gdp":"2.676","gdpPerCapita":271.31382503117425}
+{"name":"Cambodia","letters":"KH / KHM","code":["855"],"area":181040,"population":14453680,"gdp":"15.64","gdpPerCapita":1082.0773671480204}
+{"name":"Cameroon","letters":"CM / CMR","code":["237"],"area":475440,"population":19294149,"gdp":"27.88","gdpPerCapita":1444.9976518788158}
+{"name":"Canada","letters":"CA / CAN","code":["1"],"area":9984670,"population":33679000,"gdp":"1.825","gdpPerCapita":54188.069717034356}
+{"name":"Cape Verde","letters":"CV / CPV","code":["238"],"area":4033,"population":508659,"gdp":"1.955","gdpPerCapita":3843.4393178927335}
+{"name":"Cayman Islands","letters":"KY / CYM","code":["1-345"],"area":262,"population":44270,"gdp":"2.25","gdpPerCapita":50824.4861079738}
+{"name":"Central African Republic","letters":"CF / CAF","code":["236"],"area":622984,"population":4844927,"gdp":"2.05","gdpPerCapita":423.122990294797}
+{"name":"Chad","letters":"TD / TCD","code":["235"],"area":1284000,"population":10543464,"gdp":"13.59","gdpPerCapita":1288.95019701305}
+{"name":"Chile","letters":"CL / CHL","code":["56"],"area":756950,"population":16746491,"gdp":"281.7","gdpPerCapita":16821.43441273757}
+{"name":"China","letters":"CN / CHN","code":["86"],"area":9596960,"population":1330044000,"gdp":"9.33","gdpPerCapita":7014.805525230744}
+{"name":"Christmas Island","letters":"CX / CXR","code":["61"],"area":135,"population":1500,"gdp":"0","gdpPerCapita":0}
+{"name":"Cocos Islands","letters":"CC / CCK","code":["61"],"area":14,"population":628,"gdp":"0","gdpPerCapita":0}
+{"name":"Colombia","letters":"CO / COL","code":["57"],"area":1138910,"population":47790000,"gdp":"369.2","gdpPerCapita":7725.465578572923}
+{"name":"Comoros","letters":"KM / COM","code":["269"],"area":2170,"population":773407,"gdp":"658","gdpPerCapita":850.7810247385917}
+{"name":"Cook Islands","letters":"CK / COK","code":["682"],"area":240,"population":21388,"gdp":"183.2","gdpPerCapita":8565.550776136151}
+{"name":"Costa Rica","letters":"CR / CRI","code":["506"],"area":51100,"population":4516220,"gdp":"48.51","gdpPerCapita":10741.283639858111}
+{"name":"Croatia","letters":"HR / HRV","code":["385"],"area":56542,"population":4491000,"gdp":"59.14","gdpPerCapita":13168.55934090403}
+{"name":"Cuba","letters":"CU / CUB","code":["53"],"area":110860,"population":11423000,"gdp":"72.3","gdpPerCapita":6329.335551081152}
+{"name":"Curacao","letters":"CW / CUW","code":["599"],"area":444,"population":141766,"gdp":"5.6","gdpPerCapita":39501.7140922365}
+{"name":"Cyprus","letters":"CY / CYP","code":["357"],"area":9250,"population":1102677,"gdp":"21.78","gdpPerCapita":19751.93098250893}
+{"name":"Czech Republic","letters":"CZ / CZE","code":["420"],"area":78866,"population":10476000,"gdp":"194.8","gdpPerCapita":18594.883543337153}
+{"name":"Democratic Republic of the Congo","letters":"CD / COD","code":["243"],"area":2345410,"population":70916439,"gdp":"18.56","gdpPerCapita":261.71646887120204}
+{"name":"Denmark","letters":"DK / DNK","code":["45"],"area":43094,"population":5484000,"gdp":"324.3","gdpPerCapita":59135.66739606127}
+{"name":"Djibouti","letters":"DJ / DJI","code":["253"],"area":23000,"population":740528,"gdp":"1.459","gdpPerCapita":1970.2158459909685}
+{"name":"Dominica","letters":"DM / DMA","code":["1-767"],"area":754,"population":72813,"gdp":"495","gdpPerCapita":6798.2365786329365}
+{"name":"Dominican Republic","letters":"DO / DOM","code":["1-809","1-829","1-849"],"area":48730,"population":9823821,"gdp":"59.27","gdpPerCapita":6033.293969831087}
+{"name":"East Timor","letters":"TL / TLS","code":["670"],"area":15007,"population":1154625,"gdp":"6.129","gdpPerCapita":5308.21695355635}
+{"name":"Ecuador","letters":"EC / ECU","code":["593"],"area":283560,"population":14790608,"gdp":"91.41","gdpPerCapita":6180.273319392955}
+{"name":"Egypt","letters":"EG / EGY","code":["20"],"area":1001450,"population":80471869,"gdp":"262","gdpPerCapita":3255.79613417454}
+{"name":"El Salvador","letters":"SV / SLV","code":["503"],"area":21040,"population":6052064,"gdp":"24.67","gdpPerCapita":4076.295293638666}
+{"name":"Equatorial Guinea","letters":"GQ / GNQ","code":["240"],"area":28051,"population":1014999,"gdp":"17.08","gdpPerCapita":16827.60278581555}
+{"name":"Eritrea","letters":"ER / ERI","code":["291"],"area":121320,"population":5792984,"gdp":"3.438","gdpPerCapita":593.4765226349667}
+{"name":"Estonia","letters":"EE / EST","code":["372"],"area":45226,"population":1291170,"gdp":"24.28","gdpPerCapita":18804.650046082235}
+{"name":"Ethiopia","letters":"ET / ETH","code":["251"],"area":1127127,"population":88013491,"gdp":"47.34","gdpPerCapita":537.8720859964525}
+{"name":"Falkland Islands","letters":"FK / FLK","code":["500"],"area":12173,"population":2638,"gdp":"164.5","gdpPerCapita":62357.84685367703}
+{"name":"Faroe Islands","letters":"FO / FRO","code":["298"],"area":1399,"population":48228,"gdp":"2.32","gdpPerCapita":48104.83536534793}
+{"name":"Fiji","letters":"FJ / FJI","code":["679"],"area":18270,"population":875983,"gdp":"4.218","gdpPerCapita":4815.16193807414}
+{"name":"Finland","letters":"FI / FIN","code":["358"],"area":337030,"population":5244000,"gdp":"259.6","gdpPerCapita":49504.19527078567}
+{"name":"France","letters":"FR / FRA","code":["33"],"area":547030,"population":64768389,"gdp":"2.739","gdpPerCapita":42289.14818307431}
+{"name":"French Polynesia","letters":"PF / PYF","code":["689"],"area":4167,"population":270485,"gdp":"5.65","gdpPerCapita":20888.40416289258}
+{"name":"Gabon","letters":"GA / GAB","code":["241"],"area":267667,"population":1545255,"gdp":"19.97","gdpPerCapita":12923.43334918832}
+{"name":"Gambia","letters":"GM / GMB","code":["220"],"area":11300,"population":1593256,"gdp":"896","gdpPerCapita":562.3703911989033}
+{"name":"Georgia","letters":"GE / GEO","code":["995"],"area":69700,"population":4630000,"gdp":"15.95","gdpPerCapita":3444.924406047516}
+{"name":"Germany","letters":"DE / DEU","code":["49"],"area":357021,"population":81802257,"gdp":"3.593","gdpPerCapita":43922.993469483365}
+{"name":"Ghana","letters":"GH / GHA","code":["233"],"area":239460,"population":24339838,"gdp":"45.55","gdpPerCapita":1871.4175501085915}
+{"name":"Gibraltar","letters":"GI / GIB","code":["350"],"area":7,"population":27884,"gdp":"1.106","gdpPerCapita":39664.323626452446}
+{"name":"Greece","letters":"GR / GRC","code":["30"],"area":131940,"population":11000000,"gdp":"243.3","gdpPerCapita":22118.18181818182}
+{"name":"Greenland","letters":"GL / GRL","code":["299"],"area":2166086,"population":56375,"gdp":"2.16","gdpPerCapita":38314.85587583148}
+{"name":"Grenada","letters":"GD / GRD","code":["1-473"],"area":344,"population":107818,"gdp":"811","gdpPerCapita":7521.9351128754015}
+{"name":"Guam","letters":"GU / GUM","code":["1-671"],"area":549,"population":159358,"gdp":"4.6","gdpPerCapita":28865.824119278604}
+{"name":"Guatemala","letters":"GT / GTM","code":["502"],"area":108890,"population":13550440,"gdp":"53.9","gdpPerCapita":3977.7306124376773}
+{"name":"Guernsey","letters":"GG / GGY","code":["44-1481"],"area":78,"population":65228,"gdp":"2.742","gdpPerCapita":42037.16195498865}
+{"name":"Guinea","letters":"GN / GIN","code":["224"],"area":245857,"population":10324025,"gdp":"6.544","gdpPerCapita":633.8613089371636}
+{"name":"Guinea-Bissau","letters":"GW / GNB","code":["245"],"area":36120,"population":1565126,"gdp":"880","gdpPerCapita":562.2550516699614}
+{"name":"Guyana","letters":"GY / GUY","code":["592"],"area":214970,"population":748486,"gdp":"3.02","gdpPerCapita":4034.811606362711}
+{"name":"Haiti","letters":"HT / HTI","code":["509"],"area":27750,"population":9648924,"gdp":"8.287","gdpPerCapita":858.8522409338078}
+{"name":"Honduras","letters":"HN / HND","code":["504"],"area":112090,"population":7989415,"gdp":"18.88","gdpPerCapita":2363.1267120308557}
+{"name":"Hong Kong","letters":"HK / HKG","code":["852"],"area":1092,"population":6898686,"gdp":"272.1","gdpPerCapita":39442.29379333978}
+{"name":"Hungary","letters":"HU / HUN","code":["36"],"area":93030,"population":9982000,"gdp":"130.6","gdpPerCapita":13083.550390703265}
+{"name":"Iceland","letters":"IS / ISL","code":["354"],"area":103000,"population":308910,"gdp":"14.59","gdpPerCapita":47230.584960020715}
+{"name":"India","letters":"IN / IND","code":["91"],"area":3287590,"population":1173108018,"gdp":"1.67","gdpPerCapita":1423.568822628233}
+{"name":"Indonesia","letters":"ID / IDN","code":["62"],"area":1919440,"population":242968342,"gdp":"867.5","gdpPerCapita":3570.4240019878803}
+{"name":"Iran","letters":"IR / IRN","code":["98"],"area":1648000,"population":76923300,"gdp":"411.9","gdpPerCapita":5354.684471415033}
+{"name":"Iraq","letters":"IQ / IRQ","code":["964"],"area":437072,"population":29671605,"gdp":"221.8","gdpPerCapita":7475.160174179995}
+{"name":"Ireland","letters":"IE / IRL","code":["353"],"area":70280,"population":4622917,"gdp":"220.9","gdpPerCapita":47783.68289977951}
+{"name":"Isle of Man","letters":"IM / IMN","code":["44-1624"],"area":572,"population":75049,"gdp":"4.076","gdpPerCapita":54311.18336020466}
+{"name":"Israel","letters":"IL / ISR","code":["972"],"area":20770,"population":7353985,"gdp":"272.7","gdpPerCapita":37081.935848386966}
+{"name":"Italy","letters":"IT / ITA","code":["39"],"area":301230,"population":60340328,"gdp":"2.068","gdpPerCapita":34272.26978282253}
+{"name":"Ivory Coast","letters":"CI / CIV","code":["225"],"area":322460,"population":21058798,"gdp":"28.28","gdpPerCapita":1342.906655925946}
+{"name":"Jamaica","letters":"JM / JAM","code":["1-876"],"area":10991,"population":2847232,"gdp":"14.39","gdpPerCapita":5054.03142420428}
+{"name":"Japan","letters":"JP / JPN","code":["81"],"area":377835,"population":127288000,"gdp":"5.007","gdpPerCapita":39335.99396643831}
+{"name":"Jersey","letters":"JE / JEY","code":["44-1534"],"area":116,"population":90812,"gdp":"5.1","gdpPerCapita":56159.97885741972}
+{"name":"Jordan","letters":"JO / JOR","code":["962"],"area":92300,"population":6407085,"gdp":"34.08","gdpPerCapita":5319.111577261734}
+{"name":"Kazakhstan","letters":"KZ / KAZ","code":["7"],"area":2717300,"population":15340000,"gdp":"224.9","gdpPerCapita":14661.016949152543}
+{"name":"Kenya","letters":"KE / KEN","code":["254"],"area":582650,"population":40046566,"gdp":"45.31","gdpPerCapita":1131.4328424564544}
+{"name":"Kiribati","letters":"KI / KIR","code":["686"],"area":811,"population":92533,"gdp":"173","gdpPerCapita":1869.603276668864}
+{"name":"Kosovo","letters":"XK / XKX","code":["383"],"area":10887,"population":1800000,"gdp":"7.15","gdpPerCapita":3972.222222222222}
+{"name":"Kuwait","letters":"KW / KWT","code":["965"],"area":17820,"population":2789132,"gdp":"179.5","gdpPerCapita":64356.93972174856}
+{"name":"Kyrgyzstan","letters":"KG / KGZ","code":["996"],"area":198500,"population":5508626,"gdp":"7.234","gdpPerCapita":1313.2131315504084}
+{"name":"Laos","letters":"LA / LAO","code":["856"],"area":236800,"population":6368162,"gdp":"10.1","gdpPerCapita":1586.0149286403205}
+{"name":"Latvia","letters":"LV / LVA","code":["371"],"area":64589,"population":2217969,"gdp":"30.38","gdpPerCapita":13697.215786153909}
+{"name":"Lebanon","letters":"LB / LBN","code":["961"],"area":10400,"population":4125247,"gdp":"43.49","gdpPerCapita":10542.399036954635}
+{"name":"Lesotho","letters":"LS / LSO","code":["266"],"area":30355,"population":1919552,"gdp":"2.457","gdpPerCapita":1279.9861634381355}
+{"name":"Liberia","letters":"LR / LBR","code":["231"],"area":111370,"population":3685076,"gdp":"1.977","gdpPerCapita":536.4882569586082}
+{"name":"Libya","letters":"LY / LBY","code":["218"],"area":1759540,"population":6461454,"gdp":"70.92","gdpPerCapita":10975.857755854951}
+{"name":"Liechtenstein","letters":"LI / LIE","code":["423"],"area":160,"population":35000,"gdp":"5.113","gdpPerCapita":146085.7142857143}
+{"name":"Lithuania","letters":"LT / LTU","code":["370"],"area":65200,"population":2944459,"gdp":"46.71","gdpPerCapita":15863.695164374847}
+{"name":"Luxembourg","letters":"LU / LUX","code":["352"],"area":2586,"population":497538,"gdp":"60.54","gdpPerCapita":121679.14812536932}
+{"name":"Macau","letters":"MO / MAC","code":["853"],"area":254,"population":449198,"gdp":"51.68","gdpPerCapita":115049.48819896794}
+{"name":"Macedonia","letters":"MK / MKD","code":["389"],"area":25333,"population":2062294,"gdp":"10.65","gdpPerCapita":5164.1521528938165}
+{"name":"Madagascar","letters":"MG / MDG","code":["261"],"area":587040,"population":21281844,"gdp":"10.53","gdpPerCapita":494.7879516455435}
+{"name":"Malawi","letters":"MW / MWI","code":["265"],"area":118480,"population":15447500,"gdp":"3.683","gdpPerCapita":238.42045638452825}
+{"name":"Malaysia","letters":"MY / MYS","code":["60"],"area":329750,"population":28274729,"gdp":"312.4","gdpPerCapita":11048.73542731391}
+{"name":"Maldives","letters":"MV / MDV","code":["960"],"area":300,"population":395650,"gdp":"2.27","gdpPerCapita":5737.394161506382}
+{"name":"Mali","letters":"ML / MLI","code":["223"],"area":1240000,"population":13796354,"gdp":"11.37","gdpPerCapita":824.130781219444}
+{"name":"Malta","letters":"MT / MLT","code":["356"],"area":316,"population":403000,"gdp":"9.541","gdpPerCapita":23674.937965260546}
+{"name":"Marshall Islands","letters":"MH / MHL","code":["692"],"area":181,"population":65859,"gdp":"193","gdpPerCapita":2930.5030443826963}
+{"name":"Mauritania","letters":"MR / MRT","code":["222"],"area":1030700,"population":3205060,"gdp":"4.183","gdpPerCapita":1305.12377303389}
+{"name":"Mauritius","letters":"MU / MUS","code":["230"],"area":2040,"population":1294104,"gdp":"11.9","gdpPerCapita":9195.551516725085}
+{"name":"Mayotte","letters":"YT / MYT","code":["262"],"area":374,"population":159042,"gdp":"0","gdpPerCapita":0}
+{"name":"Mexico","letters":"MX / MEX","code":["52"],"area":1972550,"population":112468855,"gdp":"1.327","gdpPerCapita":11798.821993875548}
+{"name":"Micronesia","letters":"FM / FSM","code":["691"],"area":702,"population":107708,"gdp":"339","gdpPerCapita":3147.3985219296615}
+{"name":"Moldova","letters":"MD / MDA","code":["373"],"area":33843,"population":4324000,"gdp":"7.932","gdpPerCapita":1834.4125809435707}
+{"name":"Monaco","letters":"MC / MCO","code":["377"],"area":2,"population":32965,"gdp":"5.748","gdpPerCapita":174366.75261641134}
+{"name":"Mongolia","letters":"MN / MNG","code":["976"],"area":1565000,"population":3086918,"gdp":"11.14","gdpPerCapita":3608.7774278422685}
+{"name":"Montenegro","letters":"ME / MNE","code":["382"],"area":14026,"population":666730,"gdp":"4.518","gdpPerCapita":6776.356246156615}
+{"name":"Montserrat","letters":"MS / MSR","code":["1-664"],"area":102,"population":9341,"gdp":"0","gdpPerCapita":0}
+{"name":"Morocco","letters":"MA / MAR","code":["212"],"area":446550,"population":31627428,"gdp":"104.8","gdpPerCapita":3313.5795930038953}
+{"name":"Mozambique","letters":"MZ / MOZ","code":["258"],"area":801590,"population":22061451,"gdp":"14.67","gdpPerCapita":664.9607951897633}
+{"name":"Myanmar","letters":"MM / MMR","code":["95"],"area":678500,"population":53414374,"gdp":"59.43","gdpPerCapita":1112.6218571802415}
+{"name":"Namibia","letters":"NA / NAM","code":["264"],"area":825418,"population":2128471,"gdp":"12.3","gdpPerCapita":5778.796140515891}
+{"name":"Nauru","letters":"NR / NRU","code":["674"],"area":21,"population":10065,"gdp":"0","gdpPerCapita":0}
+{"name":"Nepal","letters":"NP / NPL","code":["977"],"area":140800,"population":28951852,"gdp":"19.34","gdpPerCapita":668.0056253396156}
+{"name":"Netherlands","letters":"NL / NLD","code":["31"],"area":41526,"population":16645000,"gdp":"722.3","gdpPerCapita":43394.412736557526}
+{"name":"Netherlands Antilles","letters":"AN / ANT","code":["599"],"area":960,"population":136197,"gdp":"0","gdpPerCapita":0}
+{"name":"New Caledonia","letters":"NC / NCL","code":["687"],"area":19060,"population":216494,"gdp":"9.28","gdpPerCapita":42864.929282104815}
+{"name":"New Zealand","letters":"NZ / NZL","code":["64"],"area":268680,"population":4252277,"gdp":"181.1","gdpPerCapita":42588.94705119163}
+{"name":"Nicaragua","letters":"NI / NIC","code":["505"],"area":129494,"population":5995928,"gdp":"11.26","gdpPerCapita":1877.9411627357767}
+{"name":"Niger","letters":"NE / NER","code":["227"],"area":1267000,"population":15878271,"gdp":"7.304","gdpPerCapita":459.99970651716427}
+{"name":"Nigeria","letters":"NG / NGA","code":["234"],"area":923768,"population":154000000,"gdp":"502","gdpPerCapita":3259.7402597402597}
+{"name":"Niue","letters":"NU / NIU","code":["683"],"area":260,"population":2166,"gdp":"10.01","gdpPerCapita":4621.421975992613}
+{"name":"North Korea","letters":"KP / PRK","code":["850"],"area":120540,"population":22912177,"gdp":"28","gdpPerCapita":1222.0575984551795}
+{"name":"Northern Mariana Islands","letters":"MP / MNP","code":["1-670"],"area":477,"population":53883,"gdp":"733","gdpPerCapita":13603.548429003582}
+{"name":"Norway","letters":"NO / NOR","code":["47"],"area":324220,"population":5009150,"gdp":"515.8","gdpPerCapita":102971.5620414641}
+{"name":"Oman","letters":"OM / OMN","code":["968"],"area":212460,"population":2967717,"gdp":"81.95","gdpPerCapita":27613.81897263115}
+{"name":"Pakistan","letters":"PK / PAK","code":["92"],"area":803940,"population":184404791,"gdp":"236.5","gdpPerCapita":1282.504639480869}
+{"name":"Palau","letters":"PW / PLW","code":["680"],"area":458,"population":19907,"gdp":"221","gdpPerCapita":11101.622544833475}
+{"name":"Palestine","letters":"PS / PSE","code":["970"],"area":5970,"population":3800000,"gdp":"6.641","gdpPerCapita":1747.6315789473683}
+{"name":"Panama","letters":"PA / PAN","code":["507"],"area":78200,"population":3410676,"gdp":"40.62","gdpPerCapita":11909.66248333175}
+{"name":"Papua New Guinea","letters":"PG / PNG","code":["675"],"area":462840,"population":6064515,"gdp":"16.1","gdpPerCapita":2654.78772828495}
+{"name":"Paraguay","letters":"PY / PRY","code":["595"],"area":406750,"population":6375830,"gdp":"30.56","gdpPerCapita":4793.101447184132}
+{"name":"Peru","letters":"PE / PER","code":["51"],"area":1285220,"population":29907003,"gdp":"210.3","gdpPerCapita":7031.797870217889}
+{"name":"Philippines","letters":"PH / PHL","code":["63"],"area":300000,"population":99900177,"gdp":"272.2","gdpPerCapita":2724.7198971429248}
+{"name":"Pitcairn","letters":"PN / PCN","code":["64"],"area":47,"population":46,"gdp":"0","gdpPerCapita":0}
+{"name":"Poland","letters":"PL / POL","code":["48"],"area":312685,"population":38500000,"gdp":"513.9","gdpPerCapita":13348.051948051949}
+{"name":"Portugal","letters":"PT / PRT","code":["351"],"area":92391,"population":10676000,"gdp":"219.3","gdpPerCapita":20541.40127388535}
+{"name":"Puerto Rico","letters":"PR / PRI","code":["1-787","1-939"],"area":9104,"population":3916632,"gdp":"93.52","gdpPerCapita":23877.65815118704}
+{"name":"Qatar","letters":"QA / QAT","code":["974"],"area":11437,"population":840926,"gdp":"213.1","gdpPerCapita":253411.12059800743}
+{"name":"Republic of the Congo","letters":"CG / COG","code":["242"],"area":342000,"population":3039126,"gdp":"14.25","gdpPerCapita":4688.848043812596}
+{"name":"Reunion","letters":"RE / REU","code":["262"],"area":2517,"population":776948,"gdp":"0","gdpPerCapita":0}
+{"name":"Romania","letters":"RO / ROU","code":["40"],"area":237500,"population":21959278,"gdp":"188.9","gdpPerCapita":8602.286468617047}
+{"name":"Russia","letters":"RU / RUS","code":["7"],"area":17100000,"population":140702000,"gdp":"2.113","gdpPerCapita":15017.554832198548}
+{"name":"Rwanda","letters":"RW / RWA","code":["250"],"area":26338,"population":11055976,"gdp":"7.7","gdpPerCapita":696.4559257364524}
+{"name":"Saint Barthelemy","letters":"BL / BLM","code":["590"],"area":21,"population":8450,"gdp":"0","gdpPerCapita":0}
+{"name":"Saint Helena","letters":"SH / SHN","code":["290"],"area":410,"population":7460,"gdp":"0","gdpPerCapita":0}
+{"name":"Saint Kitts and Nevis","letters":"KN / KNA","code":["1-869"],"area":261,"population":51134,"gdp":"767","gdpPerCapita":14999.804435405014}
+{"name":"Saint Lucia","letters":"LC / LCA","code":["1-758"],"area":616,"population":160922,"gdp":"1.377","gdpPerCapita":8556.940629621804}
+{"name":"Saint Martin","letters":"MF / MAF","code":["590"],"area":53,"population":35925,"gdp":"561.5","gdpPerCapita":15629.784272790535}
+{"name":"Saint Pierre and Miquelon","letters":"PM / SPM","code":["508"],"area":242,"population":7012,"gdp":"215.3","gdpPerCapita":30704.506560182544}
+{"name":"Saint Vincent and the Grenadines","letters":"VC / VCT","code":["1-784"],"area":389,"population":104217,"gdp":"742","gdpPerCapita":7119.75973209745}
+{"name":"Samoa","letters":"WS / WSM","code":["685"],"area":2944,"population":192001,"gdp":"705","gdpPerCapita":3671.855875750647}
+{"name":"San Marino","letters":"SM / SMR","code":["378"],"area":61,"population":31477,"gdp":"1.866","gdpPerCapita":59281.38005527846}
+{"name":"Sao Tome and Principe","letters":"ST / STP","code":["239"],"area":1001,"population":175808,"gdp":"311","gdpPerCapita":1768.9752457226066}
+{"name":"Saudi Arabia","letters":"SA / SAU","code":["966"],"area":1960582,"population":25731776,"gdp":"718.5","gdpPerCapita":27922.67428412248}
+{"name":"Senegal","letters":"SN / SEN","code":["221"],"area":196190,"population":12323252,"gdp":"15.36","gdpPerCapita":1246.4242393160507}
+{"name":"Serbia","letters":"RS / SRB","code":["381"],"area":88361,"population":7344847,"gdp":"43.68","gdpPerCapita":5947.026534385263}
+{"name":"Seychelles","letters":"SC / SYC","code":["248"],"area":455,"population":88340,"gdp":"1.271","gdpPerCapita":14387.593389178175}
+{"name":"Sierra Leone","letters":"SL / SLE","code":["232"],"area":71740,"population":5245695,"gdp":"4.607","gdpPerCapita":878.2439695788642}
+{"name":"Singapore","letters":"SG / SGP","code":["65"],"area":693,"population":4701069,"gdp":"295.7","gdpPerCapita":62900.58707923666}
+{"name":"Sint Maarten","letters":"SX / SXM","code":["1-721"],"area":34,"population":37429,"gdp":"794.7","gdpPerCapita":21232.19963130193}
+{"name":"Slovakia","letters":"SK / SVK","code":["421"],"area":48845,"population":5455000,"gdp":"96.96","gdpPerCapita":17774.518790100825}
+{"name":"Slovenia","letters":"SI / SVN","code":["386"],"area":20273,"population":2007000,"gdp":"46.82","gdpPerCapita":23328.35077229696}
+{"name":"Solomon Islands","letters":"SB / SLB","code":["677"],"area":28450,"population":559198,"gdp":"1.099","gdpPerCapita":1965.3146112825868}
+{"name":"Somalia","letters":"SO / SOM","code":["252"],"area":637657,"population":10112453,"gdp":"2.372","gdpPerCapita":234.5622768283818}
+{"name":"South Africa","letters":"ZA / ZAF","code":["27"],"area":1219912,"population":49000000,"gdp":"353.9","gdpPerCapita":7222.448979591837}
+{"name":"South Korea","letters":"KR / KOR","code":["82"],"area":98480,"population":48422644,"gdp":"1.198","gdpPerCapita":24740.491246202913}
+{"name":"South Sudan","letters":"SS / SSD","code":["211"],"area":644329,"population":8260490,"gdp":"11.77","gdpPerCapita":1424.854942019178}
+{"name":"Spain","letters":"ES / ESP","code":["34"],"area":504782,"population":46505963,"gdp":"1.356","gdpPerCapita":29157.55125853431}
+{"name":"Sri Lanka","letters":"LK / LKA","code":["94"],"area":65610,"population":21513990,"gdp":"65.12","gdpPerCapita":3026.8676335723876}
+{"name":"Sudan","letters":"SD / SDN","code":["249"],"area":1861484,"population":35000000,"gdp":"52.5","gdpPerCapita":1500}
+{"name":"Suriname","letters":"SR / SUR","code":["597"],"area":163270,"population":492829,"gdp":"5.009","gdpPerCapita":10163.768771724066}
+{"name":"Svalbard and Jan Mayen","letters":"SJ / SJM","code":["47"],"area":62049,"population":2550,"gdp":"0","gdpPerCapita":0}
+{"name":"Swaziland","letters":"SZ / SWZ","code":["268"],"area":17363,"population":1354051,"gdp":"3.807","gdpPerCapita":2811.5632276775395}
+{"name":"Sweden","letters":"SE / SWE","code":["46"],"area":449964,"population":9555893,"gdp":"552","gdpPerCapita":57765.40193574792}
+{"name":"Switzerland","letters":"CH / CHE","code":["41"],"area":41290,"population":7581000,"gdp":"646.2","gdpPerCapita":85239.4143252869}
+{"name":"Syria","letters":"SY / SYR","code":["963"],"area":185180,"population":22198110,"gdp":"64.7","gdpPerCapita":2914.662554604874}
+{"name":"Taiwan","letters":"TW / TWN","code":["886"],"area":35980,"population":22894384,"gdp":"484.7","gdpPerCapita":21171.13087646298}
+{"name":"Tajikistan","letters":"TJ / TJK","code":["992"],"area":143100,"population":7487489,"gdp":"8.513","gdpPerCapita":1136.9632730011356}
+{"name":"Tanzania","letters":"TZ / TZA","code":["255"],"area":945087,"population":41892895,"gdp":"31.94","gdpPerCapita":762.4204533966918}
+{"name":"Thailand","letters":"TH / THA","code":["66"],"area":514000,"population":67089500,"gdp":"400.9","gdpPerCapita":5975.5997585315135}
+{"name":"Togo","letters":"TG / TGO","code":["228"],"area":56785,"population":6587239,"gdp":"4.299","gdpPerCapita":652.6254778367689}
+{"name":"Tokelau","letters":"TK / TKL","code":["690"],"area":10,"population":1466,"gdp":"0","gdpPerCapita":0}
+{"name":"Tonga","letters":"TO / TON","code":["676"],"area":748,"population":122580,"gdp":"477","gdpPerCapita":3891.336270190896}
+{"name":"Trinidad and Tobago","letters":"TT / TTO","code":["1-868"],"area":5128,"population":1228691,"gdp":"27.13","gdpPerCapita":22080.40915087683}
+{"name":"Tunisia","letters":"TN / TUN","code":["216"],"area":163610,"population":10589025,"gdp":"48.38","gdpPerCapita":4568.881459813345}
+{"name":"Turkey","letters":"TR / TUR","code":["90"],"area":780580,"population":77804122,"gdp":"821.8","gdpPerCapita":10562.422386824184}
+{"name":"Turkmenistan","letters":"TM / TKM","code":["993"],"area":488100,"population":4940916,"gdp":"40.56","gdpPerCapita":8209.004160362168}
+{"name":"Turks and Caicos Islands","letters":"TC / TCA","code":["1-649"],"area":430,"population":20556,"gdp":"0","gdpPerCapita":0}
+{"name":"Tuvalu","letters":"TV / TUV","code":["688"],"area":26,"population":10472,"gdp":"38","gdpPerCapita":3628.724216959511}
+{"name":"U.S. Virgin Islands","letters":"VI / VIR","code":["1-340"],"area":352,"population":108708,"gdp":"0","gdpPerCapita":0}
+{"name":"Uganda","letters":"UG / UGA","code":["256"],"area":236040,"population":33398682,"gdp":"22.6","gdpPerCapita":676.6734088488881}
+{"name":"Ukraine","letters":"UA / UKR","code":["380"],"area":603700,"population":45415596,"gdp":"175.5","gdpPerCapita":3864.3112819657813}
+{"name":"United Arab Emirates","letters":"AE / ARE","code":["971"],"area":82880,"population":4975593,"gdp":"390","gdpPerCapita":78382.61690616576}
+{"name":"United Kingdom","letters":"GB / GBR","code":["44"],"area":244820,"population":62348447,"gdp":"2.49","gdpPerCapita":39936.84076846373}
+{"name":"United States","letters":"US / USA","code":["1"],"area":9629091,"population":310232863,"gdp":"16.72","gdpPerCapita":53894.99951202783}
+{"name":"Uruguay","letters":"UY / URY","code":["598"],"area":176220,"population":3477000,"gdp":"57.11","gdpPerCapita":16425.079091170548}
+{"name":"Uzbekistan","letters":"UZ / UZB","code":["998"],"area":447400,"population":27865738,"gdp":"55.18","gdpPerCapita":1980.2095318631073}
+{"name":"Vanuatu","letters":"VU / VUT","code":["678"],"area":12200,"population":221552,"gdp":"828","gdpPerCapita":3737.271611179317}
+{"name":"Vatican","letters":"VA / VAT","code":["379"],"area":0,"population":921,"gdp":"0","gdpPerCapita":0}
+{"name":"Venezuela","letters":"VE / VEN","code":["58"],"area":912050,"population":27223228,"gdp":"367.5","gdpPerCapita":13499.50123475438}
+{"name":"Vietnam","letters":"VN / VNM","code":["84"],"area":329560,"population":89571130,"gdp":"170","gdpPerCapita":1897.932961211944}
+{"name":"Wallis and Futuna","letters":"WF / WLF","code":["681"],"area":274,"population":16025,"gdp":"0","gdpPerCapita":0}
+{"name":"Western Sahara","letters":"EH / ESH","code":["212"],"area":266000,"population":273008,"gdp":"0","gdpPerCapita":0}
+{"name":"Yemen","letters":"YE / YEM","code":["967"],"area":527970,"population":23495361,"gdp":"43.89","gdpPerCapita":1868.0283312097226}
+{"name":"Zambia","letters":"ZM / ZMB","code":["260"],"area":752614,"population":13460305,"gdp":"22.24","gdpPerCapita":1652.2656804582066}
+{"name":"Zimbabwe","letters":"ZW / ZWE","code":["263"],"area":390580,"population":11651858,"gdp":"10.48","gdpPerCapita":899.4273702957931}

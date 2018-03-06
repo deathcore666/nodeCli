@@ -1,0 +1,21 @@
+{
+  "name": "country-codes-cli",
+  "version": "1.0.0",
+  "description": "country codes parser",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": "./commands.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack --colors --progress"
+  },
+  "author": "sanzhar",
+  "license": "MIT",
+  "dependencies": {
+    "webpack": "^4.1.0"
+  },
+  "devDependencies": {
+    "webpack-cli": "^2.0.10",
+    "commander": "^2.11.0"
+  }
+}
