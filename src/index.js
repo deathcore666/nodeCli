@@ -89,7 +89,7 @@ const parseTable = (input, fileName) => {
     myCountry.code = countryCodes;
     myCountry.area = countryArea;
     myCountry.population = countryPopulation;
-    myCountry.gdp = countryGdp;
+    myCountry.gdp = countryGdpValue;
     myCountry.gdpPerCapita = gdpPerCapita;
 
     if(fileName) {
